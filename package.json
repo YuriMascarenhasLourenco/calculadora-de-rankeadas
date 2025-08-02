@@ -1,0 +1,28 @@
+{
+  "name": "calculadora-de-rankeadas",
+  "version": "1.0.0",
+  "description": "Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,\r depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.ts",
+    "build": "tsc",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriMascarenhasLourenco/calculadora-de-rankeadas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/YuriMascarenhasLourenco/calculadora-de-rankeadas/issues"
+  },
+  "homepage": "https://github.com/YuriMascarenhasLourenco/calculadora-de-rankeadas#readme",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
